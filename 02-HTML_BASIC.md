@@ -1,6 +1,7 @@
 # HTML BASICS
 HTML (HyperText Markup Language) is the standard language used to create web pages.
 It structures the content of a webpage using tags (like <p>, <h1>, <img>, etc.).
+
 ## STRUCTURE OF HTML
 1. <!DOCTYPE html> → tells the browser it’s HTML5.
 
@@ -12,12 +13,37 @@ It structures the content of a webpage using tags (like <p>, <h1>, <img>, etc.).
 
 5. <body> → main content (text, images, links, etc.). 
 
+
+# HTML CODE
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My First Web Page</title>
+        <h1>wellcome to computer science federal polytechnic bida</h1>
+        <h2>The school that made the lion bark</h2>
+        <h3>smaller</h3>
+        <h4>smaller</h4>
+        <h6>smallest</h6>
+        <p>thanks for coming</p>
+        <style>
+            p{
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+<img src="images/IMG-20250308-WA0073.jg" alt="NO IMAGE">
+
+   </body>
+</html>
+
 ## COMMON HTML TAGS
 1. Headings: html has up to six heading types with each having distinct size.
 
-<h1>Main Heading</h1>
-<h2>Sub Heading</h2>
-
+```html
+  <h1>Main Heading</h1>
+  <h2>Sub Heading</h2>
+```html
 
 2. Paragraph: the <P> tag defines a paragraph.
 
