@@ -45,7 +45,7 @@ A sans-serif font does not have the decorative strokes (serifs) at the ends of l
 
 - Open Sans
 
-### Characteristics
+### Characteristics.
 
 - Clean and simple, with no decorative strokes.
 

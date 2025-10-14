@@ -11,7 +11,7 @@ It structures the content of a webpage using tags (like **p**, **h1**, **img**, 
 
 4. **title** → name that shows in the browser tab.
 
-5. **body** → main content (text, images, links, etc.). 
+5. **body** → main content (text, images, links, etc.). .
 
 
 # HTML CODE
