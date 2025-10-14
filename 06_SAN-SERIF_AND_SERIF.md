@@ -35,7 +35,7 @@ body {
 
 A sans-serif font does not have the decorative strokes (serifs) at the ends of letters. “Sans” is a French word meaning without.
 
-## Examples
+### Examples
 
 - Arial
 
