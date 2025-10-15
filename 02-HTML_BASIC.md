@@ -14,7 +14,7 @@ It structures the content of a webpage using tags (like **p**, **h1**, **img**, 
 5. **body** → main content (text, images, links, etc.). .
 
 
-# HTML CODE
+## HTML CODE
 ```html 
 <!DOCTYPE html>
 <html>
@@ -45,7 +45,7 @@ It structures the content of a webpage using tags (like **p**, **h1**, **img**, 
 ```html
   <h1>Main Heading</h1>
   <h2>Sub Heading</h2>
-```html
+```
 
 2. Paragraph: the <P> tag defines a paragraph.
 

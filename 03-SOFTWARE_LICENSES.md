@@ -1,4 +1,5 @@
 # SOFTWARE LICENSES
+A software license is a legal agreement that defines how a user or organization can install, use, modify, or distribute a piece of software.
 
 1. MIT License
 
