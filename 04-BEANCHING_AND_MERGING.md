@@ -21,26 +21,26 @@
 - Three-way merge → creates a new merge commit if histories have diverged.
 
 ## BASH COMMAND FOR BRANCHING 
-# Create a new branch
+### Create a new branch
 git branch branch-name
 
-# Switch to a branch
+### Switch to a branch
 git checkout branch-name
 
-# Create and switch to a new branch
+### Create and switch to a new branch
 git checkout -b branch-name
 
-# List all branches
+### List all branches
 git branch
 
-# Delete a branch (local)
+### Delete a branch (local)
 git branch -d branch-name
 
 
 ## BASH COMMAND FOR MERGING
-# Merge a branch into the current branch
+### Merge a branch into the current branch
 git merge branch-name
 
-# Abort a merge in progress
-git merge --abort
+### Abort a merge in progress
+git merge --abort.
 

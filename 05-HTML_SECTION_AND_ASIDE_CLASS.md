@@ -1,5 +1,5 @@
 # Understanding Section and Aside in Frontend Development
-  In modern frontend development, semantic HTML elements play a vital role in improving code readability, accessibility, SEO, and structure of web pages. Two important semantic elements are **section** and **aside**, both introduced in HTML5 to provide meaning to the structure of a webpage.
+  In modern frontend development, semantic HTML elements play a vital role in improving code readability, accessibility, SEO, and structure of web pages. Two important semantic elements are **section** and **aside**, both introduced in HTML5 to provide meaning to the structure of a webpage or webapp.
 
 ## The section Element
 The **section** element represents a thematic grouping of content in a document. It is used when content needs to be grouped under a specific theme or heading.

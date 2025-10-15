@@ -47,4 +47,4 @@ A software license is a legal agreement that defines how a user or organization 
 
 - Types include CC-BY (attribution), CC-BY-SA (share alike), CC-BY-NC (non-commercial).
 
-- Allow varying degrees of freedom depending on chosen variant.
+- Allow varying degrees of freedom depending on chosen variant..
